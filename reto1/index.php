@@ -1,6 +1,5 @@
 <?php
 
-include 'Person.php';
 include 'Admin.php';
 include 'User.php';
 
